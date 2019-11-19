@@ -1,1 +1,1 @@
-# UpdatedPortfolio
+![Screen shot of page](/Users/benjaminlee/UpdatedPortfolio/img/ss5.png)
